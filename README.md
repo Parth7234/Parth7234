@@ -1,5 +1,5 @@
 # About Me:
-Hi there, I'm Parth! 👋<br><br>I'm a Computer Science and Engineering student at IIT Patna, passionate about building efficient software, exploring low-level system architecture, and solving complex algorithmic challenges. <br><br> About Me<br>* 🎓 Currently studying CSE at IIT Patna.<br>*  Actively participating in competitive programming .<br>*  Exploring the worlds of Artificial Intelligence and Machine Learning.<br>* 🌐 Building web applications.<br>*  Always eager to learn new technologies and build cool things!
+Hi there, I'm Parth! 👋<br><br>I'm a Computer Science and Engineering student at IIT Patna, passionate about building efficient software, exploring low-level system architecture, and solving complex algorithmic challenges. <br><br> About Me<br>* Currently studying CSE at IIT Patna.<br>*  Actively participating in competitive programming .<br>*  Exploring the worlds of Artificial Intelligence and Machine Learning.<br>* Building web applications.<br>*  Always eager to learn new technologies and build cool things!
 
 
 ## Socials:
